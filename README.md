@@ -1,26 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,100:161B22&text=Syna%20Agarwala&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,100:161B22&text=Syna%20Agarwala&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Developer&descAlignY=60"/>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+and+Backend+Engineer;260%2B+LeetCode+Problems+Solved;Building+Scalable+Applications" />
 
 </div>
-
----
-
-## About
-
-CS Undergrad focused on Full Stack Development, Flutter applications, backend systems, and scalable product development.
-
-Experienced with:
-- Node.js
-- Flutter
-- MongoDB
-- JavaScript
-- REST APIs
-- System Design fundamentals
-
-Interested in clean architecture, backend engineering, problem solving, and building practical products.
 
 ---
 
@@ -102,16 +86,6 @@ Interested in clean architecture, backend engineering, problem solving, and buil
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=agsyna&theme=github-compact&hide_border=true" />
-
-</div>
-
----
-
 ## LeetCode
 
 <div align="center">
@@ -120,18 +94,3 @@ Interested in clean architecture, backend engineering, problem solving, and buil
 
 </div>
 
----
-
-## Competitive Programming
-
-- Solved 260+ problems on LeetCode
-- Active on LeetCode and Codeforces
-- Interested in DSA and scalable systems
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=agsyna&style=flat-square&color=blue" />
-
-</div>
