@@ -8,41 +8,12 @@
 
 ---
 
-## Profiles
-
-<div align="left">
-
-<a href="https://github.com/agsyna">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/agarwalasyna/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/agsyna/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/agarwalasyna">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 ## Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=react" width="45" />
-<br>React
-</td>
 
 <td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=flutter" width="45" />
@@ -58,12 +29,10 @@
 <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
 <br>MongoDB
 </td>
-
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=js" width="45" />
-<br>JavaScript
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" />
+  <br>SQL
 </td>
-
 <td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=python" width="45" />
 <br>Python
@@ -83,14 +52,3 @@
 </table>
 
 </div>
-
----
-
-## LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/agsyna?theme=dark&font=Nunito&ext=contest" />
-
-</div>
-
