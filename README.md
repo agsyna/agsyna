@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+and+Backend+Engineer;260%2B+LeetCode+Problems+Solved;Building+Scalable+Applications" />
-
 </div>
 
 ---
@@ -43,12 +41,27 @@
 <br>Java
 </td>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=cpp" width="45" />
-<br>C++
-</td>
-
 </tr>
 </table>
+
+---
+<div align="center">
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/agsyna/agsyna/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/agsyna/agsyna/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid animation"
+      src="https://raw.githubusercontent.com/agsyna/agsyna/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+</div>
 
 </div>
